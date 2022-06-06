@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/HiepSi2323/cvapply/static/css/main.926224c5.css",
+    "main.js": "/HiepSi2323/cvapply/static/js/main.99065dda.js",
+    "static/media/avatar11.png": "/HiepSi2323/cvapply/static/media/avatar11.32045fdf920f58ebe8f7.png",
+    "static/media/about.png": "/HiepSi2323/cvapply/static/media/about.2be6db9d5062f408a0ee.png",
+    "static/media/pt.jpg": "/HiepSi2323/cvapply/static/media/pt.432f596cdc3e35f02dc3.jpg",
+    "static/media/cv.pdf": "/HiepSi2323/cvapply/static/media/cv.fb77a28d90839387a3be.pdf",
+    "static/media/joao.png": "/HiepSi2323/cvapply/static/media/joao.c7cb3727bb24f70fa475.png",
+    "static/media/xb1.png": "/HiepSi2323/cvapply/static/media/xb1.357777968297b3294a2c.png",
+    "index.html": "/HiepSi2323/cvapply/index.html",
+    "main.926224c5.css.map": "/HiepSi2323/cvapply/static/css/main.926224c5.css.map",
+    "main.99065dda.js.map": "/HiepSi2323/cvapply/static/js/main.99065dda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.926224c5.css",
+    "static/js/main.99065dda.js"
+  ]
+}
